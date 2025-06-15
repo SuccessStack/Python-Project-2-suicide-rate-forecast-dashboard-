@@ -11,7 +11,7 @@ st.set_page_config(page_title="US Suicide Rate Forecast", layout="wide")
 
 # Display the banner image at the top
 banner_image = Image.open("suicide_banner.png")  # 👈 Make sure this filename matches your image
-st.image(banner_image, use_column_width=True)
+st.image(banner_image, use_container_width=True)
 
 # Theme toggle
 mode = st.sidebar.radio("🌗 Theme Mode", ["Light", "Dark"])
