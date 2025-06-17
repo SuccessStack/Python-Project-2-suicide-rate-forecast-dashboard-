@@ -16,7 +16,7 @@ This project was created to:
 ## 📁 Dataset Description
 
 **Source:** CDC (Centers for Disease Control and Prevention) via Kaggle  
-**Kaggle Link:** [Suicide Death Rate in US (1999–2020)](https://www.kaggle.com/datasets/kaitlyngaynor/suicide-death-rate-in-us)
+**Kaggle Link:** (https://www.kaggle.com/datasets/kaitlyngaynor/suicide-death-rate-in-us)
 
 **Fields included:**
 - Year
